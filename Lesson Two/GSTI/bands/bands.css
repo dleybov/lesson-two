@@ -1,0 +1,52 @@
+html,body,h1,h2,h3,h4,ul,ol,li,p,a {
+    margin: 0;
+   
+}
+body {
+    display: block;
+    margin: 8px;
+    
+}
+h1 {
+
+    
+}
+h2 {
+
+}
+h3 {
+
+}
+h4 {
+
+}
+p {
+   
+}
+a {
+    
+}
+ul {
+    
+}
+li {
+       
+}
+ol {
+    
+}
+
+.nav {
+    
+}
+
+.nav li {
+    display:inline-block;
+    
+}
+
+.nav li a {
+    text-decoration:none;
+    text-transform:uppercase;
+    color:#00ff00;
+}
